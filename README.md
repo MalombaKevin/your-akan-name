@@ -1,7 +1,7 @@
 # YourAKanName
 
 ##### By Kevin Malomba
-### YourAKanName is a web application that helps users determine what their name based on the naming tradition of the Akan tribe (From Ghana and Ivory Coast.
+### your-akan-name is a web application that helps users determine what their name based on the naming tradition of the Akan tribe from West AFrica.
 ### Front-end developer
 
 ## Table of Content
