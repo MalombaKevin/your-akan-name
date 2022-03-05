@@ -14,7 +14,7 @@
 
 
 ## Description
-+ YourAKanName webapp helps users answer the question: "What if I was born in the Akan tribe in Ghana? What could have been my name?".The Akan people's naming system is based on the days of the week. The web app uses an inbuilt formula to determine the day of the week a user was born derived from their birthday. Find out your Akan name by visiting YourAkanName website. Time to be Akaninized. Yes you kan.
++ your-akan-name webapp helps users answer the question: "What if I was born in the Akan tribe in Ghana? What could have been my name?".The Akan people's naming system is based on the days of the week. The web app uses an inbuilt formula to determine the day of the week a user was born derived from their birthday. Find out your Akan name by visiting YourAkanName website. Time to be Akaninized. Yes you kan.
 
 ## Access
 
