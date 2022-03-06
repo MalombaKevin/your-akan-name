@@ -1,7 +1,7 @@
 # YourAKanName
 
 ##### By Kevin Malomba
-### your-akan-name is a web application that helps users determine what their name based on the naming tradition of the Akan tribe from West AFrica.
+### your-akan-name is a web application that helps users determine their name based on the naming tradition of the Akan tribe from West AFrica.
 ### Front-end developer
 
 ## Table of Content
